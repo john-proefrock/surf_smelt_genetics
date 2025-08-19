@@ -3,14 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "Surf Smelt Population Genetics"
+  title: "Like a Fish Out of Water"
+  description: "Seasonal variation in spawning habitats and spatio-temporal genetic adaptation of a vulnerable species"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+    right:
+      - icon: github
+        href: https://github.com/john-proefrock/
 
 format:
   html:
     theme: cosmo
     css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
