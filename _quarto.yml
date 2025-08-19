@@ -6,6 +6,7 @@ website:
   title: "Like a Fish Out of Water"
   description: "Seasonal variation in spawning habitats and spatio-temporal genetic adaptation of a vulnerable species"
   navbar:
+    title: "Like a Fish Out of Water"
     left:
       - href: index.qmd
         text: Home
