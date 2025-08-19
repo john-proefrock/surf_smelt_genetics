@@ -17,9 +17,7 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    theme: default
 
 execute:
   freeze: auto
