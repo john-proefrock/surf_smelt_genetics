@@ -15,9 +15,12 @@ website:
       - icon: github
         href: https://github.com/john-proefrock/
 
+
 format:
   html:
-    theme: default
+    theme: 
+    - default
+    - styles.css
 
 execute:
   freeze: auto

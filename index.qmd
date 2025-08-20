@@ -4,7 +4,14 @@ subtitle: "Seasonal variation in spawning habitats and spatio-temporal genetic a
 of a vulnerable species"
 ---
 
-# Surf Smelt (*Hypomesus pretiosus*)
+Washington's coasts are home to an incredibly diverse suite of beach habitats. These habitats are among the most vulnerable to climate change due to sea level rise, with predicted increases of up to 10-12 inches by 2050 (NOAA). 1/3 of all Puget Sound shorelines have been modified, with around 90% modified within Seattle city boundaries (Weitkamp et al., 2000) 
+
+![Outer coast beach on the Olympic Peninsula of Washington State. Picture courtesy of John Proefrock](images/wa_coast.jpg)
+
+It is essential to understand how vulnerable these ecosystems and the organisms who inhabit them are to climate change and shoreline development. In order to do this, we need to look at organisms whose survival is intrinsically linked to the health of these ecosystems. One such organism is:
+
+# The **Surf Smelt** (*Hypomesus pretiosus*)
+
 
 # What is a surf smelt?
 
@@ -25,6 +32,8 @@ Within Washington State waters, surf smelt spawn nearly year-round, with activit
 -   **Puget Sound:** Predominantly winter spawning
 -   **Outer Coast and Strait of Juan de Fuca:** Predominantly summer spawning
 -   **Skagit Bay and San Juan Islands:** Year-round spawning
+
+![Surf Smelt spawning detection frequency in Puget Sound and the San Juan Islands. The color of each hexagon represents the frequency of positive surf smelt egg detections out of the total number of sampling trips. Winter sampling from October to February is shown on the left and Summer sampling from May to September is shown on the right. Data from the Washington Department of Fish and Wildlife Forage Fish Spawning Database.](images/spawning_figure.png)
 
 Environmental variables—dissolved oxygen, temperature, salinity, and wave action—vary across regions and seasons. Such variability may drive behavioral plasticity or temporal reproductive isolation among Washington surf smelt populations.
 
