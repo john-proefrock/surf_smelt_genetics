@@ -1,1 +1,73 @@
+/*-- scss:rules --*/
+
 /* css styles */
+
+/* Global background & text */
+body {
+  background-color: #F5F5F2;   /* light fog/beach color */
+  color: #243E36;             /* deep evergreen */
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* Links */
+a {
+  color: #1B4965;  /* deep ocean blue */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #62B6CB;  /* lighter coastal teal */
+  text-decoration: underline;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #2C3E3D;  /* dark evergreen */
+  font-family: "Merriweather", serif;
+}
+
+/* Navbar (if using Quarto site navbars) */
+.navbar {
+  background-color: #243E36;  /* deep forest green */
+}
+
+.navbar a {
+  color: #F0EFEA; /* fog/neutral white */
+}
+
+.navbar a:hover {
+  color: #A1C181; /* moss green */
+}
+
+/* Code blocks */
+pre, code {
+  background-color: #E8EAE6; /* misty gray backdrop */
+  color: #2C3E3D;           /* evergreen text */
+  font-family: "Fira Code", monospace;
+  border-radius: 4px;
+  padding: 0.25em 0.4em;
+}
+
+/* Callouts or blockquotes */
+blockquote {
+  border-left: 4px solid #1B4965;  /* ocean blue stripe */
+  padding-left: 1em;
+  color: #2C3E3D;
+  background-color: #EEF3F5;
+}
+
+/* Footers */
+footer {
+  background-color: #1B2B2D; /* dark slate */
+  color: #ECEFF1;            /* foggy light */
+  padding: 1em;
+  text-align: center;
+}
+
+/* Images */
+
+figcaption {
+          font-size: 0.8em; /* Adjust as needed */
+        }
+        
