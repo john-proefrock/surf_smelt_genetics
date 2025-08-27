@@ -3,9 +3,15 @@ title: "Collaborators"
 ---
 
 # Washington Department of Fish and Wildlife
+[![](images/wdfw_logo.png)](https://wdfw.wa.gov/)
+
 
 # Suquamish Tribe
+[![](images/Suquamish-Tribe-Logo.png)](https://suquamish.nsn.us/)
+
 
 # Hoh Tribe
+[![](images/hoh-tribe.png)](https://hohtribe-nsn.org/)
 
-# Peninsula Streams Society
+
+
