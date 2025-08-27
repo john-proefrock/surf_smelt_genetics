@@ -1,9 +1,31 @@
 ---
-title: "About"
+title: "People"
 ---
 
-About this site
 
-```{r}
-1 + 1
-```
+## John Proefrock
+
+![ ](images/john-proefrock.png){fig-align="left" width="50%"}
+
+### Graduate Student Project Lead \
+#### University of Washington School of Aquatic and Fishery Sciences
+
+## Lorenz Hauser
+
+### Principal Investigator
+#### Professor \| University of Washington School of Aquatic and Fishery Sciences
+
+## Ronel Nel
+
+### Co-Principal Investigator
+#### University of Washington School of Aquatic and Fishery Sciences
+
+## Todd Seamons
+
+### Principal Investigator
+#### Director of Molecular Genetics Laboratory \| Washington Department of Fish & Wildlife
+
+## Phil Dionne
+
+### Co-Principal Investigator
+#### Senior Research Scientist and Head of Forage Fish Research Group \| Washington Department of Fish & Wildlife

@@ -23,9 +23,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "People",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "####University of Washington School of Aquatic and Fishery Sciences"
   },
   {
     "objectID": "index.html#spatio-temporal-variation-in-spawning",
@@ -68,5 +68,47 @@
     "title": "Like a Fish Out of Water",
     "section": "Spawning Habitat Surveys",
     "text": "Spawning Habitat Surveys\nUsing the Washington Department of Fish and Wildlife’s Forage Fish Spawning Database, we will identify beaches with high spawning activity at different times of year. Field measurements at these sites will include sediment grain size, temperature, salinity, dissolved oxygen, and wave action. Integrating environmental and genetic data will help identify adaptive strategies used by surf smelt to cope with seasonal habitat variability."
+  },
+  {
+    "objectID": "about.html#john-proefrock",
+    "href": "about.html#john-proefrock",
+    "title": "People",
+    "section": "",
+    "text": "####University of Washington School of Aquatic and Fishery Sciences"
+  },
+  {
+    "objectID": "about.html#lorenz-hauser",
+    "href": "about.html#lorenz-hauser",
+    "title": "People",
+    "section": "Lorenz Hauser",
+    "text": "Lorenz Hauser\n\nPrincipal Investigator\n\nProfessor | University of Washington School of Aquatic and Fishery Sciences"
+  },
+  {
+    "objectID": "about.html#ronel-nel",
+    "href": "about.html#ronel-nel",
+    "title": "People",
+    "section": "Ronel Nel",
+    "text": "Ronel Nel\n\nCo-Principal Investigator\n\nUniversity of Washington School of Aquatic and Fishery Sciences"
+  },
+  {
+    "objectID": "about.html#todd-seamons",
+    "href": "about.html#todd-seamons",
+    "title": "People",
+    "section": "Todd Seamons",
+    "text": "Todd Seamons\n\nPrincipal Investigator\n\nDirector of Molecular Genetics Laboratory | Washington Department of Fish & Wildlife"
+  },
+  {
+    "objectID": "about.html#phil-dionne",
+    "href": "about.html#phil-dionne",
+    "title": "People",
+    "section": "Phil Dionne",
+    "text": "Phil Dionne\n\nCo-Principal Investigator\n\nSenior Research Scientist and Head of Forage Fish Research Group | Washington Department of Fish & Wildlife"
+  },
+  {
+    "objectID": "Collaborators.html",
+    "href": "Collaborators.html",
+    "title": "Collaborators",
+    "section": "",
+    "text": "Washington Department of Fish and Wildlife\n\n\nSuquamish Tribe\n\n\nHoh Tribe\n\n\nPeninsula Streams Society"
   }
 ]
